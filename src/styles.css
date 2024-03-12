@@ -1,1 +1,89 @@
-/* You can add global styles to this file, and also import other style files */
+
+*{
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: rgb(29, 29, 29);
+}
+
+ul > li {
+    display: inline-block;
+    margin: 20px 40px;
+}
+ul{
+    margin: 20px 0 0 0;
+}
+
+h1{
+    font-size: 5rem;
+}
+
+p.intro{
+    max-width: 50%;
+}
+
+.header{
+    text-align: center;
+}
+
+.headerimg{
+    border-radius: 100px;
+}
+
+.homePannel{
+    text-align: left;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.name{
+    position: inherit/
+    
+}
+
+
+
+
+
+
+.profilePicture{
+    border-radius: 50%;
+    float: right;
+    position: absolute;
+    right: 8%;
+    top: 20%;
+    z-index: 1;
+    box-shadow: 0 0 140px 20px #000;
+    
+}
+.circleGlowYellow{
+    position: absolute;
+    right: 15%;
+    top: 20%;
+    width: 0px;
+    height: 0px;
+    border-radius: 50%;
+    background-color: #cdc63f;
+    box-shadow:0 0 200px 100px #cdc63f;
+    box-shadow: ;
+}
+.circleGlowBlue{
+    position: absolute;
+    right: 5%;
+    top: 40%;
+    width: 0px;
+    height: 0px;
+    border-radius: 50%;
+    background-color: #2e87da;
+    box-shadow:0 0 200px 100px #2e87da;
+    box-shadow: ;
+}
+
+
+
+
